@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/ShivLinga_3D/'
+  base: '/ShivLinga_3D'
 });
